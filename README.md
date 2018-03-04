@@ -14,5 +14,5 @@ This has below tools.
 ## Usage
 
 ```
-$ docker run -it --rm ishiy1993/purescript:0.11.5
+$ docker run -it --rm ishiy1993/purescript:0.11.7
 ```
