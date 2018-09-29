@@ -5,7 +5,7 @@ This has below tools.
 - bower
 - pulp
 - psc-package
-- purs, psc, psci
+- purs
 
 ## Requirement for build
 
@@ -14,5 +14,5 @@ This has below tools.
 ## Usage
 
 ```
-$ docker run -it --rm ishiy1993/purescript:0.11.7
+$ docker run -it --rm ishiy1993/purescript:0.12.0
 ```
